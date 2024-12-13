@@ -13,4 +13,4 @@ I’m Gabriel Mathias, a Rubyist, in love with BDD, full-stack developer and an 
 
 [Github](https://github.com/gablemathias)
 
-**E-mail:** gablemathias@icloud.com
+**E-mail:** imgabrielmatt@gmail.com
