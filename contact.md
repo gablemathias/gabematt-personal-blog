@@ -1,12 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Contact
+permalink: /contact/
 ---
-
-**Hi there!**
-
-I’m Gabriel Mathias, a Rubyist, in love with BDD, full-stack developer and an ever smilling person.
 
 ## Reach me at
 [Linkedin](https://www.linkedin.com/in/gabrielgmathias/)

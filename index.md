@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+Hey 👋
+I’m a full-stack developer and Rubyist. 
+I love to test stuff, try new technologies and share some knowledge.

@@ -2,6 +2,8 @@
 layout: post
 title:  "Important Aspects of a Bug Report"
 date:   2024-12-05 17:11:00 +0000
+categories: bugs
+
 ---
 
 Writing a good, concise, and clear bug report can save you a lot of time explaining and reproducing the bug with your developer friend. That’s why I’m here today: to clarify—or at least refresh—your understanding of how to report that not-so-great issue found in a given application.
