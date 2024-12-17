@@ -17,6 +17,7 @@ gablemathias@icloud.com | +351 932 733 094 | Porto - Portugal
 document issues.
 - 2+ years with Ruby and OOP development
 - 1+ year with manual and functional testing
+
 ## PROFESSIONAL EXPERIENCE
 ### B3 S.A. – Brasil, Bolsa, Balcão
 #### Systems Development Analyst
