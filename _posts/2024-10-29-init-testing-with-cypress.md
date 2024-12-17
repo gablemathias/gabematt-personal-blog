@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "E2E Testing including Test Case Process"
-date:   2024-29-10 14:11:29 +0000
+date:   2024-10-29 14:11:29 +0000
 categories: testing, complete
 
 ---
