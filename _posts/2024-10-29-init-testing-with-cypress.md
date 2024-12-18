@@ -5,8 +5,6 @@ date:   2024-10-29 14:11:29 +0000
 categories: testing, complete
 
 ---
-# End-to-End Testing - Cypress - ]init[ Website
-
 The goal here is to show a proper test case built and how it was tested manually and functionally in a professional manner. 
 Using tools such as Jira to design and execute the test cases is awesome.
 In a professional environment that uses Jira/Confluence/BitBucket (Atlassian) Tools, learning how to write a proper test case and execute it improves the productivity, and when something goes wrong, you know where to check and do the regression.  
@@ -19,9 +17,9 @@ In a professional environment that uses Jira/Confluence/BitBucket (Atlassian) To
 4. E2E Automated tests
 5. Report results
 
-Test Scenario: Successfully send a Job application through the career page on https://www.init.pt/en/career-init-dcp
+**Test Scenario:** Successfully send a Job application through the career page on https://www.init.pt/en/career-init-dcp
 
-Test Steps:
+**Test Steps:**
 
     1. The user navigates to init.pt
     2. The user clicls the 'Career' button.
@@ -29,35 +27,35 @@ Test Steps:
     4. The user fills the form accordingly.
     5. The user clicks the 'Send application' button.
 
-Prerequisites: A curriculum and an ID document to attach.
+**Prerequisites:** A curriculum and an ID document to attach.
 
-Browser: Chromium v130. Firefox v129
+**Browser:** Chromium v130. Firefox v129
 
-Test Data: Personal information, curriculum, check-boxing preferences
+**Test Data:** Personal information, curriculum, check-boxing preferences
 
-Expected/Intended Results: Once user fill and checkbox the form, the application will be send correctly.   
+**Expected/Intended Results:** Once user fill and checkbox the form, the application will be send correctly.   
 
-Actual Results: As Expected
+**Actual Results:** As Expected
 
-Test Status – Pass/Fail: Pass
+**Test Status – Pass/Fail:** Pass
 
 ![image](https://github.com/user-attachments/assets/771cf138-5478-4775-acf4-4481b5eac039)
 
-Two specs, one for each task (Cypress)
+**Two specs, one for each task (Cypress)**
 ![Screenshot from 2024-10-29 14-54-14](https://github.com/user-attachments/assets/c8565f1e-36ff-4055-af9e-205679d4e73b)
 
-The second test passing (Cypress)
+**The second test passing (Cypress)**
 
 ![Screenshot from 2024-10-29 14-57-43](https://github.com/user-attachments/assets/aa27c8ec-ad8d-4a0a-ac30-2cee41929a8e)
 
-Demo - visiting the career webpage and filling the form (E2E Automated Test)
+**Demo - visiting the career webpage and filling the form (E2E Automated Test)**
 
-[e2e_filling_form.webm](https://github.com/user-attachments/assets/66a9186f-bb07-408c-a5fc-c32ae7bbb122)
+[E2E - Filling Form](https://github.com/user-attachments/assets/66a9186f-bb07-408c-a5fc-c32ae7bbb122)
 
-Demo - visiting and analysing stories in
+**Demo - visiting and analysing stories in**
 [Jira](https://github.com/user-attachments/assets/b0f3a1a1-13f0-4b7f-84ed-a47d19ef3a1d)
 
-Demo - the documentation created in
+**Demo - the documentation created in**
 [Confluence](https://github.com/user-attachments/assets/4cbf9a20-7959-4b10-95be-0836cc3df92f)
 
 ## Images of the process on Jira and Confluence 
