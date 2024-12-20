@@ -23,7 +23,7 @@ email: imgabrielmatt@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I am a software developer and created this blog to share ideas, experiences
   showcase some of my portfolio using technologies such as ruby, 
-  java, javascript and its frameworks.
+  java and its frameworks.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: gablemathias

@@ -6,5 +6,6 @@ layout: home
 ---
 
 Hey 👋
-I’m a full-stack developer and Rubyist. 
-I love to test stuff, try new technologies and share some knowledge.
+I'm a software developer and photographer. 
+I love to test stuff and share some knowledge.
+My tech stack include: Java, SpringBoot, Ruby and Rails.  
